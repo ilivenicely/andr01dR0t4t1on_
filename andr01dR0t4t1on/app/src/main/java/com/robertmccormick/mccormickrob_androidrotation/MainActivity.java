@@ -1,7 +1,3 @@
-//Robert McCormick
-//MccormickRob_ce08
-//MDV3810-O 01
-
 
 
 
